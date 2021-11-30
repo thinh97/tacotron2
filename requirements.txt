@@ -6,3 +6,4 @@ tensorflow==1.15.2
 inflect==0.2.5
 Unidecode==1.0.22
 pillow
+numba==0.48
