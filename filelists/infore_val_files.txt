@@ -1,0 +1,100 @@
+train_data/00000.wav|hiện nay vị trí của bàn thờ thường được đặt trong phòng riêng ở tầng trên cùng của nhà
+train_data/00001.wav|để cậu nhỏ hướng lên hay hướng xuống khi mặc quần lót
+train_data/00002.wav|cả phố thắp đèn lồng lung linh và cảm giác ở nơi đây rất yên bình và con người cũng niềm nở nữa
+train_data/00003.wav|đây là mức chi phí có lí nhất dựa trên kỹ thuật ứng dụng tiên tiến mang đến sự ưng ý tuyệt đối cho trường hợp
+train_data/00004.wav|ca sĩ thái thùy linh chia sẻ con chị không mắc chứng tự kỷ trong gia đình cũng không có người tự kỷ
+train_data/00005.wav|trong quá trình cháu làm chị hãy động viên khích lệ khen ngợi nhiều hơn
+train_data/00006.wav|tránh ăn một số loại món ăn chiên rán hay nướng vì chúng có thể kích thích cổ họng khiến tình trạng viêm nhiễm đau rát thêm nặng
+train_data/00007.wav|các vùng cấm bay và vùng cấm tàu thuyền qua lại cũng sẽ được thiết lập trong thời gian diễn ra hội nghị
+train_data/00008.wav|và thậm chí cơ quan điều tra chính thức phát lệnh triệu tập với siêu sao người bồ
+train_data/00009.wav|nếu đảm bảo được những điều trên thì tình trạng suy giảm trí nhớ của bạn sẽ giảm đi rõ rệt và đề phòng cả bệnh trầm cảm sau khi sinh
+train_data/00010.wav|luôn luôn bắt đầu với kem dưỡng ẩm và kem lót để tạo sự mềm mịn trước khi đánh kem nền
+train_data/00011.wav|phòng khám phụ khoa dùng hệ thống đồ đạc y tế hiện đại được nhập khẩu từ nước ngoài đặc biệt là các trang thiết bị liên quan tới bệnh phụ nữ
+train_data/00012.wav|thấy cặp vợ chồng mới cưới đang thân mật bà đập cửa phi vào và không ngừng la mắng bắt minh vân không được cưỡi lên người việt thanh nữa
+train_data/00013.wav|bí quyết chọn lựa đèn chùm trang trí tại nghệ an diễn đàn rao vặt và quảng cáo miễn phí hiệu quả nhất
+train_data/00014.wav|đã phải đối mặt với những trò hề hài hước khi thi nhau giành lấy tình cảm từ những chú chó con
+train_data/00015.wav|chính vì vậy những bạn trẻ đang có mong muốn theo học ngành nghề này thì hãy mạnh dạn theo đuổi đam mê của mình ngay thôi
+train_data/00016.wav|ăn giàu tập nghèo để mông đạt chuẩn săn tròn tự nhiên
+train_data/00017.wav|vui vẻ trêu đùa nhau tạo dáng nhí nhảnh trước ống kính
+train_data/00018.wav|luyện tập kích thích bản thân lên đến điểm trước khi xuất tinh rồi dừng lại
+train_data/00019.wav|hồi mình chưa học nấu ăn vào chơi nhà bà dì ở gia lai
+train_data/00020.wav|hai phái còn lại là thái cực quyền và hình ý quyền
+train_data/00021.wav|âm hạng thiên khinh thường liếc nhìn tôi nói đừng đánh giá mình cao quá cho dù cô đầu thai lần nữa tôi cũng không chọn cô
+train_data/00022.wav|cuộc sống càng huyên náo nhộn nhịp ta càng cần những lúc tĩnh tâm như thế
+train_data/00023.wav|tư tưởng này đã được hlv đức thắng quán triệt rõ ràng suốt cả trận đấu họ đã chơi rất tập trung
+train_data/00024.wav|lựa chọn ngay con số may mắn trong ngày cho bản thân
+train_data/00025.wav|tăng lãi suất tiền gửi có thể ảnh hưởng đến thị trường bất động sản
+train_data/00026.wav|những người đau khớp gối cần một giải pháp vừa điều trị vừa giúp đi lại vận động một cách linh hoạt
+train_data/00027.wav|để có kế hoạch tổ chức phá cỗ cho các con được vui vẻ ý nghĩa nhất
+train_data/00028.wav|sáng nay thông tin và hình về việc khởi my kelvin khánh làm lễ đám hỏi tại đồng nai khiến nhiều bạn bè thân thiết và cộng đồng mạng xôn xao
+train_data/00029.wav|tư vấn miễn phí về chung cư mini nhưng điều khách hàng chưa bao giờ biết
+train_data/00030.wav|mặt khác chẳng phải trung tâm công ty nào cũng mang lại cho khách hàng sự hài lòng tuyệt đối về chất lượng dịch vụ sửa tủ lạnh
+train_data/00031.wav|địa chỉ hỗ trợ quý khách mua vé máy bay khu vực đường phan đình phùng
+train_data/00032.wav|rau má chữa bệnh sởi với công thức sắc uống hàng ngày
+train_data/00033.wav|toàn bộ dự án được trang bị hệ thống lọc nước sạch uống tại vòi
+train_data/00034.wav|lần này về nước anh được đảm nhận vị trí giám đốc khu vực là sếp của mai và anh vẫn còn độc thân
+train_data/00035.wav|trang phục đôi khi không tạo được sự thoải mái lứa tuổi trẻ em
+train_data/00036.wav|lý lịch đen của kẻ chuyên trộm ở các công trình xây dựng
+train_data/00037.wav|mới đây cô tham gia phim điệp viên ngoài giờ vẫn giữ được độ duyên dáng cuốn hút của mình
+train_data/00038.wav|bản song ca đã đi vào huyền thoại và vẫn được rất nhiều người yêu thích cho đến hiện tại dù mối quan hệ giữa minh hằng và tim đã rạn nứt
+train_data/00039.wav|các cán bộ trạm thuỷ sản yên khánh kim sơn lấy mẫu nước xét nghiệm nhằm giúp cho bà con đưa ra các biện pháp xử lý hiệu quả
+train_data/00040.wav|hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình
+train_data/00041.wav|nếu đầu bạn hoàn toàn có thể xoay chuyển dễ dàng thì chiếc mũ đó đang quá rộng
+train_data/00042.wav|không thể nhìn em như thế mãi được tôi đã đề nghị bỏ thai
+train_data/00043.wav|tôi cảm thấy bị oan ức khi anh chỉ nghe từ một phía chị
+train_data/00044.wav|chúng ta muốn ai đó bước vào trong không gian tăm tối nhất của bản thân và cứu chúng ta
+train_data/00045.wav|người phụ nữ thiểu năng bị giam giữ cưỡng hiếp chỉ được
+train_data/00046.wav|bố mẹ chồng tôi cũng hiền tôi vốn nghĩ cuộc đời mình thế là may mắn ai ngờ đâu
+train_data/00047.wav|đều khá hài lòng với chất lượng của xe đặc biệt là khả năng leo dốc và sự ổn định trong quá trình di chuyển
+train_data/00048.wav|để cảm thấy yêu người nào đó bạn trải qua một vài lần trò chuyện thân mật
+train_data/00049.wav|đã giới thiệu nhiều công nghệ tiên tiến thu hút sự quan tâm của khách tham quan lẫn các đối tác trong khu vực
+train_data/00050.wav|sự kết hợp của các liệu pháp không chỉ tác động trên bề mặt của da mà còn tác động sâu tới bề mặt và kết cấu bên dưới
+train_data/00051.wav|doanh nghiệp và cơ quan nhà nước chưa gắn kết chặt chẽ
+train_data/00052.wav|công chức hà nội không còn lo chọn nước hoa xăm hình
+train_data/00053.wav|khi thức dậy sớm vào buổi sáng bạn có thể cảm thấy vẫn buồn ngủ và mệt mỏi
+train_data/00054.wav|tuy nhiên có lẽ chuyện này sẽ chỉ diễn ra sau khi ông xử lý xong kẻ thù thế chột
+train_data/00055.wav|vì thế hãy sống để theo đuổi mục đích riêng của bạn và yêu lấy chính bản thân mình
+train_data/00056.wav|việc điều trị được sử dụng phụ thuộc vào tuổi của bệnh nhân và y tế cũng như một vài loại mụn cóc không giống nhau
+train_data/00057.wav|sau đó mở góc mắt trong hoặc góc mắt ngoài loại bỏ lớp rẽ quạt và khâu kín tránh để lại vết sẹo xấu
+train_data/00058.wav|sau đây là những cách chữa bệnh táo bón hiệu quả mà không cần sử dụng đến thuốc
+train_data/00059.wav|báo giá chính xác không chi phí phát sinh tiết kiệm chi phí sửa chữa
+train_data/00060.wav|sẵn sàng bỏ tiền mua nhẫn kim cương đen chỉ là chuyện nhỏ khi nữ đại gia chiều tình trẻ
+train_data/00061.wav|mặc dù chưa đến cao điểm dịch bệnh cả nước đã ghi nhận nhiều trường hợp sốt xuất huyết
+train_data/00062.wav|thói quen sinh hoạt có ảnh hưởng không nhỏ xíu tới sức khỏe sinh sản ở cả nam lẫn nữ
+train_data/00063.wav|báo công an thành phố mỹ tho đã có mặt điều tiết giao thông và điều tra nguyên nhân vụ tai nạn
+train_data/00064.wav|với các sản phẩm danh tín bảo đảm tuyệt đối an toàn và vô cùng đơn giản sử dụng nên phải sản phẩm
+train_data/00065.wav|và cuối cùng con người cũng chứng minh được thứ gì là quan trọng nhất để có một cuộc sống trọn vẹn viên
+train_data/00066.wav|đi bán vé số còn người vợ đi phụ bán quán gần nhà
+train_data/00067.wav|cách làm khá đơn giản chỉ cần dùng vài lát khoai tây đã được làm mát rồi đắp lên vết sưng
+train_data/00068.wav|sau đó lái xe vào công an phường máy chai trình báo sự việc
+train_data/00069.wav|hiện lô hàng trên được đưa về kho của cảng bến nghé chờ kiểm định
+train_data/00070.wav|khác lạ cùng với đó là các loại trà chuyên được pha bằng ấm tử sa như ô long đài loan thiết quan âm trung quốc
+train_data/00071.wav|với các loại mực đặc biệt được nhập từ các nhà cung cấp uy tín chất lượng mực đổ của chúng tôi đạt từ
+train_data/00072.wav|nạn nhân nhanh chóng được đưa đi cấp cứu nhưng do vết thương quá nặng nạn nhân đã tử vong sau đó
+train_data/00073.wav|đóng gói nhãn mác thiết bị bếp nướng không khói kiểu nước nhật
+train_data/00074.wav|trong cuộc phỏng vấn quý nói chuyện với nhà tuyển dụng hoàn toàn bằng tiếng anh và chính khả năng ngoại ngữ của cô đã gây ấn tượng với họ
+train_data/00075.wav|người dân địa phương phát hiện một phụ nữ tử vong trên đồi chè trong tư thế tay bị trói vào gốc
+train_data/00076.wav|những tình huống dở khóc dở cười cô phải trải qua nhận được sự đồng cảm của nhiều khán giả đặc biệt là những nàng dâu việt
+train_data/00077.wav|mình sinh đôi hai cậu con trai bin và bon hạnh phúc nhân đôi nhưng nỗi vất vả thì gấp mấy lần đặc biệt là những khi con ốm
+train_data/00078.wav|đơn giản bởi trong căn phòng sử dụng tông màu sáng thì màu đỏ của cửa trượt quả là bắt mắt và ấn tượng
+train_data/00079.wav|em lạy chị chị sai quá mà còn không biết xấu hổ hả chị
+train_data/00080.wav|khối tài sản không phải ai cũng biết của sao việt chuyên hát hội chợ
+train_data/00081.wav|muốn nói thông minh chòm sao ma kết tuyệt đối là đứng đầu
+train_data/00082.wav|lạc long quân lấy âu cơ sinh ra một bọc trăm trứng nở ra một trăm người con là tổ tiên của người bách việt
+train_data/00083.wav|nếu đặt cược với số tiền lớn có thể giúp ta thắng nhiều tiền nhưng cũng có thể khiến ta thua thảm hại
+train_data/00084.wav|có thể thỏa sức đắm mình trong những giai điệu bay bổng giàu cảm xúc như đang hiện diện tại sân khấu
+train_data/00085.wav|thay vào đó hãy chọn đầm dự tiệc có chất liệu lụa vải mềm sẽ giúp bạn trở nên sang trọng trong đêm tiệc mà vẫn vô cùng tự tin quyến rũ
+train_data/00086.wav|nhưng khi nhận ra sự việc thì mọi chuyện đã quá muộn
+train_data/00087.wav|hường hết đi với người này làm công tác xã hội lại đi với người kia thăm kẻ khó
+train_data/00088.wav|cây cô đơn là một địa danh rất quen thuộc với những người từng đến ở lại và lỡ phải lòng với vùng đất ngàn hoa đà lạt
+train_data/00089.wav|địa điểm ăn chơi thần thánh một thời của giới trẻ hà nội
+train_data/00090.wav|với trang phục màu trầm hương tràm sử dụng khuyên tai tròn màu vàng để làm điểm nhấn
+train_data/00091.wav|nói rồi hắn bê em lên giường hôn hít các kiểu nhiệt tình lắm em thì nhắm nghiền mắt nín thở chờ đợi
+train_data/00092.wav|nhưng do không chống cự được nữa nên khổ chủ mới tìm cách thoát thân
+train_data/00093.wav|bà chu giải thích vấn đề của bà lúc đầu chỉ són vài giọt rồi sau đó tăng lên nhiều tới cả thìa nước
+train_data/00094.wav|cách này cũng buộc tôi phải trao quyền cho những người khác để phản hồi nhanh chóng hơn
+train_data/00095.wav|thiết kế và may đồng phục bếp giá rẻ theo yêu cầu
+train_data/00096.wav|giúp học viên tìm hiểu về những qui tắc kế toán tình hình sản xuất kinh doanh năm trước của doanh nghiệp
+train_data/00097.wav|trường hợp nạn nhân hôn mê có thể phải đặt ống nội khí quản thở máy
+train_data/00098.wav|hiện thời gian cụ thể thí điểm làn xe riêng dành cho xe buýt trên hai tuyến đường võ thị sáu và điện biên phủ vẫn chưa chốt ông trung thông tin
+train_data/00099.wav|với màu xanh lá cây đậm giúp chủ nhà có ít thời gian với việc bếp núc không phải bỏ ra nhiều thời gian cho việc lau chùi
